@@ -48,6 +48,16 @@ message-website/
 
 └── script.js # JavaScript to encode/decode message via URL
 
+
+---
+
+## ✅ Future Features
+
+- ✅ Copy-to-clipboard button
+- 🔐 Optional password-protected messages
+- 🌙 Dark mode toggle
+- 📱 Mobile responsive improvements
+
 ---
 
 ## 👤 Author
