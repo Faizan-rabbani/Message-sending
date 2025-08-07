@@ -35,3 +35,34 @@ This is a simple and minimal web app that lets you **create and share secret mes
 3. The website reads the hash from the URL and decodes the message.
 4. The decoded message is displayed on the screen automatically.
 
+---
+
+## 📂 Project Structure
+
+message-website/
+│
+├── index.html # HTML layout for message form and display
+├── style.css # Styles for layout, colors, and animations
+└── script.js # JavaScript to encode/decode message via URL
+
+---
+
+## 👤 Author
+
+**Faizan Rabbani**  
+📧 faizandev@example.com  
+🌐 [My Portfolio](https://your-portfolio-link.com)
+
+---
+
+## 📄 License
+
+Licensed under the MIT License.
+
+---
+
+## 🤝 Contributions
+
+Want to contribute? Feel free to fork this repo, suggest new features, or fix bugs with a pull request!
+
+---
