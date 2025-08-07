@@ -41,8 +41,11 @@ This is a simple and minimal web app that lets you **create and share secret mes
 
 message-website/
 │
+
 ├── index.html # HTML layout for message form and display
+
 ├── style.css # Styles for layout, colors, and animations
+
 └── script.js # JavaScript to encode/decode message via URL
 
 ---
@@ -50,8 +53,8 @@ message-website/
 ## 👤 Author
 
 **Faizan Rabbani**  
-📧 faizandev@example.com  
-🌐 [My Portfolio](https://your-portfolio-link.com)
+📧 faizanrabbani987@gmail.com
+🌐 [My Portfolio](https://faizanplz.netlify.app/)
 
 ---
 
